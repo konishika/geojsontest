@@ -6,31 +6,31 @@
  
  "features": [ 
  { "type": "Feature",
-	"properties": { "Branch_name": D–yx“X, "Branch_address": "§060]8639 D–ys’†‰›‹æ‘å’Ê“Œ1’š–Ú2”Ô’n" },
+	"properties": { "Branch_name": æœ­å¹Œæ”¯åº—, "Branch_address": "ã€’060â€8639 æœ­å¹Œå¸‚ä¸­å¤®åŒºå¤§é€šæ±1ä¸ç›®2ç•ªåœ°" },
 	"geometry": { "type": "Point",
 	"coordinates": [ 141.357699, 43.061698 ]
 		}
 	}, 
  { "type": "Feature",
-	"properties": { "Branch_name": D–y–kxĞ, "Branch_address": "§002]8022 D–ys–k‹æÂ˜H2ğ2’š–Ú8”Ô18†" },
+	"properties": { "Branch_name": æœ­å¹ŒåŒ—æ”¯ç¤¾, "Branch_address": "ã€’002â€8022 æœ­å¹Œå¸‚åŒ—åŒºç¯ è·¯2æ¡2ä¸ç›®8ç•ª18å·" },
 	"geometry": { "type": "Point",
 	"coordinates": [ 141.353446, 43.144813 ]
 		}
 	}, 
  { "type": "Feature",
-	"properties": { "Branch_name": D–y¼xĞ, "Branch_address": "§063]0052 D–ys¼‹æ‹{‚Ì‘ò2ğ4’š–Ú7”Ô15†" },
+	"properties": { "Branch_name": æœ­å¹Œè¥¿æ”¯ç¤¾, "Branch_address": "ã€’063â€0052 æœ­å¹Œå¸‚è¥¿åŒºå®®ã®æ²¢2æ¡4ä¸ç›®7ç•ª15å·" },
 	"geometry": { "type": "Point",
 	"coordinates": [ 141.265564, 43.092596 ]
 		}
 	}, 
  { "type": "Feature",
-	"properties": { "Branch_name": D–y“ŒxĞ, "Branch_address": "§004]8691 D–ysŒú•Ê‹æŒú•Ê’†‰›1ğ5’š–Ú1”Ô30†" },
+	"properties": { "Branch_name": æœ­å¹Œæ±æ”¯ç¤¾, "Branch_address": "ã€’004â€8691 æœ­å¹Œå¸‚åšåˆ¥åŒºåšåˆ¥ä¸­å¤®1æ¡5ä¸ç›®1ç•ª30å·" },
 	"geometry": { "type": "Point",
 	"coordinates": [ 141.471356, 43.036306 ]
 		}
 	}, 
  { "type": "Feature",
-	"properties": { "Branch_name": D–y“ìxĞ, "Branch_address": "§005]0812 D–ys“ì‹æì‰ˆ12ğ1’š–Ú1”Ô1†" },
+	"properties": { "Branch_name": æœ­å¹Œå—æ”¯ç¤¾, "Branch_address": "ã€’005â€0812 æœ­å¹Œå¸‚å—åŒºå·æ²¿12æ¡1ä¸ç›®1ç•ª1å·" },
 	"geometry": { "type": "Point",
 	"coordinates": [ 141.336598, 42.981476 ]
 		}

@@ -74,6 +74,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#008040",
+        "fill-opacity": 0.5,
         "Branch_name": "中央区"
       },
       "geometry": {
@@ -7312,6 +7317,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8040",
+        "fill-opacity": 0.5,
         "Branch_name": "北区"
       },
       "geometry": {
@@ -14526,6 +14536,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#8080c0",
+        "fill-opacity": 0.5,
         "Branch_name": "東区"
       },
       "geometry": {
@@ -17960,6 +17975,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0080",
+        "fill-opacity": 0.5,
         "Branch_name": "白石区",
         "Branch_address": ""
       },
@@ -21179,6 +21199,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ff00",
+        "fill-opacity": 0.5,
         "Branch_name": "豊平区",
         "Branch_address": ""
       },
@@ -27110,6 +27135,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff80",
+        "fill-opacity": 0.5,
         "Branch_name": "南区",
         "Branch_address": ""
       },
@@ -47397,6 +47427,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#00ff80",
+        "fill-opacity": 0.5,
         "Branch_name": "西区",
         "Branch_address": ""
       },
@@ -54020,6 +54055,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
         "Branch_name": "厚別区",
         "Branch_address": ""
       },
@@ -56803,6 +56843,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#008080",
+        "fill-opacity": 0.5,
         "Branch_name": "手稲区",
         "Branch_address": ""
       },
@@ -61298,6 +61343,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Branch_name": "清田区"
       },
       "geometry": {

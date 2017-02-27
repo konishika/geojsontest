@@ -3,19 +3,19 @@
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.357699, 43.061698 ]},
         "properties": {"Branch_name": "札幌支店", "Branch_address": "〒060‐8639 札幌市中央区大通東1丁目2番地"}
-        } 
+        } ,
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.353446, 43.144813 ]},
         "properties": { "Branch_name": "札幌北支社", "Branch_address": "〒002‐8022 札幌市北区篠路2条2丁目8番18号" },
-        } 
+        } ,
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.265564, 43.092596 ]},
         "properties": { "Branch_name": "札幌西支社", "Branch_address": "〒063‐0052 札幌市西区宮の沢2条4丁目7番15号" },
-        } 
+        } ,
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.471356, 43.036306 ]},
         "properties": { "Branch_name": "札幌東支社", "Branch_address": "〒004‐8691 札幌市厚別区厚別中央1条5丁目1番30号" },
-        } 
+        } ,
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.336598, 42.981476 ]},
         "properties": { "Branch_name": "札幌南支社", "Branch_address": "〒005‐0812 札幌市南区川沿12条1丁目1番1号" },

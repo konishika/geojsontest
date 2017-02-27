@@ -3,6 +3,10 @@
       { "type": "Feature",
         "geometry": { "type": "Point", "coordinates": [ 141.357699, 43.061698 ]},
         "properties": {"Branch_name": "札幌支店", "Branch_address": "〒060‐8639 札幌市中央区大通東1丁目2番地"}
-        }
+        },
+      { "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [ 141.353446, 43.144813 ]},
+        "properties": { "Branch_name": "札幌北支社", "Branch_address": "〒002‐8022 札幌市北区篠路2条2丁目8番18号" },
+        } 
                 ] 
 }
